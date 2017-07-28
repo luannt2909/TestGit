@@ -1,2 +1,3 @@
 Đến cả con khỉ cũng biết dùng Git.
 Thật đấy, ko đùa đâu.
+Tạo xung đột để merge.
