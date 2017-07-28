@@ -1,3 +1,5 @@
 Đến cả con khỉ cũng biết dùng Git.
 Thật đấy, ko đùa đâu.
 Ben Test 1 cung tao xung dot.
+Tạo xung đột để merge.
+
